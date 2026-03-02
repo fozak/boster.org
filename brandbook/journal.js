@@ -1,9 +1,9 @@
 /**
- * EXPONANTA PROJECT JOURNAL
+ * BOSTER PROJECT JOURNAL
  * Development Progress Tracker
  * 
  * This file documents what has been completed and what remains
- * to be built for the Exponanta event & community platform.
+ * to be built for the Boster event & community platform.
  */
 // ============================================================
 // act as methodologist for developing programs for entreprenuers and start ups, that work in groups pitch->assessment-> feedback from community -> implementation plan-> report back after some time. 
@@ -11,8 +11,8 @@
 
 
 
-const ExponantaJournal = {
-  projectName: "Exponanta Event & Community Platform",
+const BosterJournal = {
+  projectName: "Boster Event & Community Platform",
   startDate: "2025-01-29",
   colorScheme: {
     primary: "#2446C8",    // blue-700
@@ -30,7 +30,7 @@ const ExponantaJournal = {
     brandSystem: {
       name: "Design Tokens & Brandbook CSS",
       status: "✅ COMPLETE",
-      files: ["exponanta.css"],
+      files: ["boster.css"],
       includes: [
         "CSS variables for colors, typography, spacing",
         "Bootstrap semantic overrides",
@@ -474,7 +474,7 @@ const ExponantaJournal = {
   // ============================================================
   fileStructure: {
     css: [
-      "exponanta.css (~1,300 lines total)",
+      "boster.css (~1,300 lines total)",
       "  - Design tokens",
       "  - Bootstrap overrides",
       "  - Typography",
@@ -579,7 +579,7 @@ const ExponantaJournal = {
   // NOTES
   // ============================================================
   notes: [
-    "All components follow Exponanta brand system",
+    "All components follow Boster brand system",
     "Maximum Bootstrap usage to minimize custom CSS",
     "Mobile-first responsive design",
     "No JavaScript functionality yet - all static",
@@ -786,6 +786,6 @@ const SPARK365 = {
 
 // Export for use in other files if needed
 if (typeof module !== 'undefined' && module.exports) {
-  module.exports = ExponantaJournal;
+  module.exports = BosterJournal;
 }
 
