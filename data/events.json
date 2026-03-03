@@ -23,28 +23,26 @@
   "city": "Boston",
   "source": "boster.org"
 },
-  {
-    "id": "event03082617",
-    "title": "AI & Machine Learning Workshop",
-    "description": "Hands-on workshop exploring the latest in AI and machine learning.",
-    "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=400&h=300&fit=crop",
-    "status": "filling",
-    "tags": ["Free", "Workshop", "Online"],
-    "location": "InnoHub, Cambridge",
-    "going": 18,
-    "avatars": ["JD", "SK", "AM"]
+{
+  "id": "event03052618",
+  "title": "Thursday Gathering - March 5, 2026",
+  "description": "Join our weekly community gathering for networking, discussions, and workshops focused on technology and innovation at Venture Café, Cambridge.",
+  "image": "https://capitalprojects.mit.edu/sites/default/files/styles/project_full_540x348/public/MIT-Site5_2021AV67-072-WeissManfredi.jpg?itok=gtXOn0Ef",
+  "status": "",
+  "tags": ["Free","Community","In-Person"],
+  "location": "Venture Café, One Broadway, 5th floor, Cambridge, MA 02142",
+  "going": 3,
+  "avatars": ["/images/dennis-didkovskiy.jpg","/images/elena-logacheva.jpg","PH"],
+  "calendar": {
+    "google": "https://www.google.com/calendar/event?action=TEMPLATE&text=Thursday+Gathering+-+March+5,+2026&dates=20260305T180000/20260305T200000&location=Venture+Café,+One+Broadway,+Cambridge,+MA,+US&details=Join+our+weekly+community+gathering+for+networking,+discussions,+and+workshops+focused+on+technology+and+innovation.&trp=true",
+    "ical": "https://community.venturecafecambridge.org/events/0d237eff-54e3-4559-ae43-3387acdcf45c"
   },
-  {
-    "id": "event03052609",
-    "title": "Tech Innovation Summit 2025",
-    "description": "Full-day conference featuring industry leaders.",
-    "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=400&h=300&fit=crop",
-    "status": "featured",
-    "tags": ["Paid", "Conference", "In-Person"],
-    "location": "Skolkovo, Moscow",
-    "going": 45,
-    "avatars": ["VK", "NP", "IR"]
-  },
+  "registerUrl": "https://community.venturecafecambridge.org/events/0d237eff-54e3-4559-ae43-3387acdcf45c",
+  "connectUrl": "https://www.linkedin.com/in/dennis-didkovski/",
+  "presenter": "Venture Café",
+  "city": "Cambridge",
+  "source": "boster.org"
+},
 {
     "id": "event03102620",
     "title": "Commmunity at the concert: Jingtong Zhang '26 BM, Harp",
@@ -63,5 +61,25 @@
     "presenter": "New England Conservatory",
     "city": "Boston",
     "source": "boster.org"
-  }
+  },
+  {
+  "id": "event03122618",
+  "title": "Thursday Gathering - March 12, 2026",
+  "description": "Join our weekly community gathering for networking, discussions, and workshops focused on technology and innovation at Venture Café, Cambridge.",
+  "image": "https://kendallsquare.org/wp-content/uploads/HomeHero.jpg",
+  "status": "",
+  "tags": ["Free","Community","In-Person"],
+  "location": "Venture Café, One Broadway, 5th floor, Cambridge, MA 02142",
+  "going": 3,
+  "avatars": ["/images/dennis-didkovskiy.jpg","/images/elena-logacheva.jpg","PH"],
+  "calendar": {
+    "google": "https://www.google.com/calendar/event?action=TEMPLATE&text=Thursday+Gathering+-+March+12,+2026&dates=20260312T180000/20260312T200000&location=Venture+Café,+One+Broadway,+Cambridge,+MA,+US&details=Join+our+weekly+community+gathering+for+networking,+discussions,+and+workshops+focused+on+technology+and+innovation.&trp=true",
+    "ical": "https://community.venturecafecambridge.org/events/c4578cc6-c844-4432-8456-2142fa293839"
+  },
+  "registerUrl": "https://community.venturecafecambridge.org/events/c4578cc6-c844-4432-8456-2142fa293839",
+  "connectUrl": "https://www.linkedin.com/in/dennis-didkovski/",
+  "presenter": "Venture Café",
+  "city": "Cambridge",
+  "source": "boster.org"
+}
 ]
