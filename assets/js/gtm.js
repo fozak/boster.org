@@ -2,7 +2,7 @@
 
 // Initialize Google Tag Manager
 (function() {
-    var gtmId = 'G-NSLH4990V1'; // Replace with your GTM ID
+    var gtmId = 'G-Q2W62X75G9'; // Replace with your GTM ID
     var gtagScript = document.createElement('script');
 
     gtagScript.async = true;
